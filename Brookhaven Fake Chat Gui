@@ -1,0 +1,2 @@
+-- Fake Chat, 2 Avaliable Methods Adding after 5 hours
+print("Adding after 5 hours")
